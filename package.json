@@ -32,7 +32,6 @@
   },
   "dependencies": {
     "angular-chart.js": "^1.0.0-alpha8",
-    "chart.js": "^2.1.6",
-    "crypto-socket": "^1.0.2"
+    "chart.js": "^2.1.6"
   }
 }
