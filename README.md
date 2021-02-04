@@ -18,6 +18,17 @@ ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
 
 BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
 
+## Prerequisits 
+
+`nvm use v8.0.0`
+
+If haveing problems running npm install saying error need to install make and g++
+
+run:
+
+`sudo apt-get install build-essential` - to install make and g++
+
+
 ## Installation
 
 `git clone https://github.com/carsenk/explorer`
